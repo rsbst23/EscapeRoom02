@@ -41,6 +41,6 @@ public class DoorController : MonoBehaviour
             yield return null;
         }
 
-        string x = "Jackson";
+        //string x = "Jackson";
     }
 }

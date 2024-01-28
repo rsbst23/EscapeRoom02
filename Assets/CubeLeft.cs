@@ -7,7 +7,7 @@ public class CubeLeft : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       string x = "Jackson"; 
+       //string x = "Jackson"; 
     }
 
     // Update is called once per frame
@@ -16,7 +16,7 @@ public class CubeLeft : MonoBehaviour
         // if (Input.GetKey(KeyCode.Space))
         // {
         // }
-        string y = "Rob";
+        //string y = "Rob";
 
     }
 }
